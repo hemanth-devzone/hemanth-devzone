@@ -12,6 +12,16 @@
 - 🔗 Growing my professional network on LinkedIn, let's collaborate!
 - 🚀 Passionate about AI, Cybersecurity, and Web Development—constantly building, learning, and evolving!
 
+---
+
+<h3 align="left">🌐 Portfolio:</h3>
+<div align="left">
+  <a href="https://portfolio-hemanth.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%2302569B.svg?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+---
   
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
@@ -67,12 +77,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-devzone&theme=dark" alt="hemanth-devzone" /></p>
   </div>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 [![](https://visitcount.itsvg.in/api?id=hemanth-devzone&icon=0&color=0)](https://visitcount.itsvg.in)
