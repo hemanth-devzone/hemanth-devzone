@@ -74,8 +74,8 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-devzone&theme=dark" alt="hemanth-devzone" /></p>
-  </div>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hemanth-devzone&theme=dark&hide_border=true" alt="hemanth-devzone" /></p>
+</div>
 
 
 [![](https://visitcount.itsvg.in/api?id=hemanth-devzone&icon=0&color=0)](https://visitcount.itsvg.in)
