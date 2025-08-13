@@ -74,7 +74,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hemanth-devzone&theme=dark&hide_border=true" alt="hemanth-devzone" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hemanth-devzone&theme=dark" alt="hemanth-devzone" /></p>
 </div>
 
 
