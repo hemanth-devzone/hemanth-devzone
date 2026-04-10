@@ -68,13 +68,13 @@
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=hemanth-devzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="hemanth-devzone" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth-devzone&show_icons=true&theme=dark&locale=en&layout=compact" alt="hemanth-devzone" /></td>
+    <td><<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hemanth-devzone&show_icons=true&theme=dark"&hide_border=false&include_all_commits=false&count_private=false" alt="hemanth-devzone" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hemanth-devzone&layout=compact&theme=dark&locale=en&layout=compact" alt="hemanth-devzone" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=hemanth-devzone&theme=dark&hide_border=false" alt="hemanth-devzone" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=hemanth-devzone&theme=dark&hide_border=false" alt="hemanth-devzone" /></p>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
